@@ -1,0 +1,7 @@
+some:
+  structure:
+    anArray:
+    - one
+    - two
+    - three
+
